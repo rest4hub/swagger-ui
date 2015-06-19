@@ -1,6 +1,6 @@
 {
   "swagger": "2.0",
-  "host": "petstore.swagger.wordnik.com",
+  "host": "localhost:3100",
   "info": {
       "title": "swagger-ui#",
       "title": "Describe your issue here",
